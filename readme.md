@@ -18,4 +18,6 @@ Invoke-WebRequest -Uri "https://github.com/diman6ik/Violet_CMD/raw/8313ca7f555c2
 ```
 # SPEED INSTALL ANDROID:
 
-```bash <(curl -Ls https://github.com/diman6ik/Violet_CMD/raw/refs/heads/main/Violet_aarch64)```
+```
+bash <(curl -Ls https://github.com/diman6ik/Violet_CMD/raw/refs/heads/main/Violet_aarch64)
+```
