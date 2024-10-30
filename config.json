@@ -1,0 +1,8 @@
+{
+    "HttpPost": "localhost:8080",
+    "Limit": 2048,
+    "AnimationStyle": "telegram",
+    "UserName": "User",
+    "InterlocutorName": "Violet",
+	"Protocol": "http"
+}
